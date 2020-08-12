@@ -1,5 +1,9 @@
-#program to remove ifunny watermark
-#page 393 automating
+##############################
+# Author: Stautyr            #
+# Language: Python 3.7.3     #
+# Date: 8-12-2020            #
+##############################
+
 import os
 from pathlib import Path
 from PIL import Image
